@@ -1,7 +1,7 @@
 
 @extends('main') 
 
-{{-- @section('title','| Homepage')@endsection --}}
+  @section('title','| Homepage')
 
 @section('stylesheets') 
     <link rel="stylesheet" type="text/css" href="styles.css">

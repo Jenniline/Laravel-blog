@@ -13,6 +13,6 @@
 
     @yield('stylesheets') 
 
-    {{$name}}
+    {{-- {{$name}} --}}
 
   </head>
